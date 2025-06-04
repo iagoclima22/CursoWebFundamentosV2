@@ -1,46 +1,37 @@
-body {
-    background-color: rgb(153, 166, 203);
+body{
+    background-color: #ccc;
 }
 
-h1 {
+h1{
     color: red;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 56px;
+    font-size: 54px;
 }
 
-h2 {
+h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 48px;
     font-style: italic;
     font-weight: normal;
 }
 
-h3 {
+h3{
     font-size: 38px;
     text-transform: capitalize;
     text-align: center;
     text-decoration: underline;
-    background-color: cyan;
+    background-color: green;
 }
 
-p {
-    text-indent: 58px;
+p{
+    text-indent: 28px;
     font-size: 28px;
-    text-align: left;
-    color: #dbd709;
+    text-align: justify;
+    color: #0000ff;
     font-variant: small-caps;
 }
 
-a {
+a{
     text-decoration: none;
     font-variant: normal;
-}
-
-.destaque {
-    color: #00696d;
-    font-weight: bold;
-}
-
-#titulo {
-    color: #7b5101;
 }
