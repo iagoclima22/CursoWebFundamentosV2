@@ -35,3 +35,12 @@ a{
     text-decoration: none;
     font-variant: normal;
 }
+
+.destaque{
+    color: blue;
+    font-weight: bold;
+}
+
+#id titulo{
+    color: red;
+}
