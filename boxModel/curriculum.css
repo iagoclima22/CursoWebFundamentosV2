@@ -25,3 +25,25 @@ h2{
 .empresa{
     color: #1111ac;
 }
+
+.menu{
+    text-align: right;
+}
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+}
+
+.menu a {
+    background-color: #fffbfb;
+    padding: 16px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+}
